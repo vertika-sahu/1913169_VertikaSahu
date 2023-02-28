@@ -1,2 +1,2 @@
-# 1913169_VertikaSahu
-Python implementation of apriori algorithm
+# Python implementation of apriori algorithm
+Minimum support= 50%
